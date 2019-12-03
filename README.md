@@ -1,7 +1,7 @@
 # Inky What Info Display
 A Python script for displaying weather and travel information on a Pimoroni Inky wHAT display. For the full write up of this project, see https://andybradford.dev/2019/11/03/living-room-eink-display.
 
-This repo is intended as a reference for how I built my information display, so is a little specific to what I did. If you want to build something similar, feel free to use this as is or add / change your own stuff. If you do something cool, I'd love to hear about it, you can tweet me at [@devandyb](https://twitter.com/devandyb) or leave a comment on the above blog post
+This repo is intended as a reference for how I built my information display, so is a little specific to what I did. If you want to build something similar, feel free to use this as is or add / change your own stuff. If you do something cool, I'd love to hear about it, you can tweet me at [@devandyb](https://twitter.com/andycb) or leave a comment on the above blog post
 
 ## Setup
 1) Make sure you have Python 2 instaled (the inky library doesn't yet support Pyhton 3)
